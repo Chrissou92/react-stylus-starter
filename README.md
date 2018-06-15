@@ -1,5 +1,6 @@
 #React-Stylus
 
 ***
-##Install : yarn
+
+##install : yarn
 ##Build : yarn start
